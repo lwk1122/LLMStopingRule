@@ -1,0 +1,12 @@
+panel,protocol,task,repeat,policy,stop,selected_step
+A,exact,django__django-13670,1,pass_best,1,1
+A,exact,django__django-13670,1,best6,6,1
+A,exact,django__django-13670,1,latest6,6,6
+B,exact,sympy__sympy-19346,0,pass_best,0,0
+B,exact,sympy__sympy-19346,0,best6,6,0
+B,exact,sympy__sympy-19346,0,latest6,6,6
+C,exact,sympy__sympy-19346,1,pass_best,0,0
+C,exact,sympy__sympy-19346,1,best6,6,0
+C,exact,sympy__sympy-19346,1,latest6,6,6
+D,aider_match,sympy__sympy-19346,2,unchanged2,2,0
+D,aider_match,sympy__sympy-19346,2,pass_best,4,4

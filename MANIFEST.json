@@ -1,0 +1,26 @@
+{
+  "scope": "Analysis code, data, expected results, and vendor license; editable documentation excluded",
+  "new_model_calls": 0,
+  "files": {
+    "analyze.py": "a0f5b378cf87b650d16b4a94e38a5692c90b6f6da2ce55de62fc950fce757f77",
+    "data/provenance.json": "9599d893d9f749b17ffeb432c70aeb7e976c11b59e3a730146ff1076ac0adb5c",
+    "data/versions.csv": "35a55e86d417e1e16a0eafd3a0cd62bb96414ebd6ca705c4006ed737aa6c0752",
+    "editing/__init__.py": "6dd0255d6dc9e575ffe60dba1949ff4548b71155b657c4344ed92a6eabf24a55",
+    "editing/exact.py": "2d8611013bc3a9fa9b54232c7c573a092295c5463ab8b2fd162deb001dcd5f8b",
+    "editing/matching.py": "6497173824c79c10acb694e03e0fc1bc5f24c939d8ee90a036ee97fe3e5305ad",
+    "editing/vendor/LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "editing/vendor/editblock_coder.py": "244df08f5ccd19928bcdac1901ae591a7a786d12a6f70d31400baaefb5a136a3",
+    "reference/audit_summary.json": "1d86668dae74bec96cbcaf1951de6060e0b1e758d05c7e21b714362ee5cb0e9d",
+    "reference/budget_summary.csv": "099c3d67a3b08470fe145557888f2a55a8d885e51bf2fcd666037428e38425d5",
+    "reference/controls.csv": "83c70a78ca304b373221ec8a61183e0a989342b98b3ec993292e0f90cff3beb4",
+    "reference/figure4_decisions.csv": "07132d037a8353a5beb4cc50f48f6965d3268f6ca17af37c0473ccdfdd996f45",
+    "reference/figure4_versions.csv": "33a4709118e160fbcf94b8af7267835a668fdf264762900a9d0f0f4e7b963d9f",
+    "reference/loss_summary.csv": "de699d9d8787c148fea07e447cf18765df2b4045885deadde695f5e4d5e23e7a",
+    "reference/output_hashes.json": "74377a338bbd3cacef6f224ab59dc4e99e5ba0b3f982fc0c161ddc5ac4461d76",
+    "reference/paired_changes.csv": "dc9160d109b5112c52a8a4121e5a33889a51e99d329d949dcb5a2606df260ac9",
+    "reference/tie_intervals.csv": "1ec770af2f8e0b4f486e8adb838e39b16536f8fbc53cd14dc6df741f0f709a3a",
+    "reference/tie_task_effects.csv": "7df6d94ede8752ff33894f5e1d7cebd2145e6a5ac64d18dcb8d80ae14360b33c",
+    "reproduce.py": "caad8ebb252289e6dee15587c353497c1f504f3eea75638e81177b5f83739a03",
+    "tests/test_core.py": "3b59d5a9422e3d5aa373ee255811c997cf1d01d97265793065ec323bc38fd3e1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Round9": {
+    "versions": 216,
+    "incomplete_versions": 8,
+    "incomplete_distinct": {
+      "observed_nonpass": 4,
+      "undetermined": 1
+    }
+  },
+  "Round7b": {
+    "versions": 288,
+    "incomplete_versions": 22,
+    "incomplete_distinct": {
+      "undetermined": 3,
+      "observed_nonpass": 12
+    }
+  },
+  "exact": {
+    "versions": 189,
+    "incomplete_versions": 1,
+    "incomplete_distinct": {
+      "undetermined": 1
+    }
+  },
+  "aider_match": {
+    "versions": 189,
+    "incomplete_versions": 10,
+    "incomplete_distinct": {
+      "undetermined": 10
+    }
+  },
+  "Extension": {
+    "versions": 70,
+    "incomplete_versions": 1,
+    "incomplete_distinct": {
+      "undetermined": 1
+    }
+  }
+}
