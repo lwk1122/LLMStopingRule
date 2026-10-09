@@ -1,2 +1,0 @@
-target,reference,n_pairs,success_margin,success_noninferior_by_ci,success_evidence_informative,publication_ready_success_claim,min_publication_pairs,success_mean_diff,success_ci_low,success_ci_high,total_observed_work_mean_diff,total_observed_work_ci_low,total_observed_work_ci_high
-learned_gate_loto,standard_full,60,0.1,True,True,True,30,-0.016666666666666666,-0.05,0.0,-2.2,-2.6666666666666665,-1.6666666666666667

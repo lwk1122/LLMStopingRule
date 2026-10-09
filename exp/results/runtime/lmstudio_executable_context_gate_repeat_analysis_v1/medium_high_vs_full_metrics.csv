@@ -1,6 +1,0 @@
-target,reference,metric,direction,n_pairs,target_mean,reference_mean,mean_diff_target_minus_reference,ci_low,ci_high,both_success,target_only_success,reference_only_success,both_fail,noninferiority_margin,noninferior_by_ci,informative_success_evidence
-context_gate_medium_high,standard_full,success,higher,60,0.9666666666666667,0.9666666666666667,0.0,0.0,0.0,58.0,0.0,0.0,2.0,0.1,True,True
-context_gate_medium_high,standard_full,model_calls,lower,60,2.4,3.0,-0.6,-0.8333333333333334,-0.36666666666666664,,,,,,,
-context_gate_medium_high,standard_full,total_tokens,lower,60,1067.5666666666666,1364.4,-296.8333333333333,-418.96541666666667,-184.50958333333338,,,,,,,
-context_gate_medium_high,standard_full,latency_seconds,lower,60,17.50964,21.62528,-4.11564,-5.90732925,-2.5537275833333357,,,,,,,
-context_gate_medium_high,standard_full,total_observed_work,lower,60,4.8,6.0,-1.2,-1.6666666666666667,-0.7333333333333333,,,,,,,

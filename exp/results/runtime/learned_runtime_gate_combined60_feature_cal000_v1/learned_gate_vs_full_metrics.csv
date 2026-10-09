@@ -1,6 +1,0 @@
-target,reference,metric,direction,n_pairs,target_mean,reference_mean,mean_diff_target_minus_reference,ci_low,ci_high,both_success,target_only_success,reference_only_success,both_fail,noninferiority_margin,noninferior_by_ci,informative_success_evidence
-learned_gate_loto,standard_full,success,higher,60,0.9666666666666667,0.9833333333333333,-0.016666666666666666,-0.05,0.0,58.0,0.0,1.0,1.0,0.1,True,True
-learned_gate_loto,standard_full,model_calls,lower,60,1.9,3.0,-1.1,-1.3666666666666667,-0.8666666666666667,,,,,,,
-learned_gate_loto,standard_full,total_tokens,lower,60,802.9166666666666,1331.5666666666666,-528.65,-649.4683333333334,-406.31458333333336,,,,,,,
-learned_gate_loto,standard_full,latency_seconds,lower,60,15.613751666666667,24.400531666666666,-8.78678,-10.879746625,-6.6484915,,,,,,,
-learned_gate_loto,standard_full,total_observed_work,lower,60,3.8,6.0,-2.2,-2.6666666666666665,-1.6666666666666667,,,,,,,
