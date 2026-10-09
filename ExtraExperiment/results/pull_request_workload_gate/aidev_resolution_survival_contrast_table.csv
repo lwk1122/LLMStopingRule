@@ -1,7 +1,0 @@
-split,metric,point,ci_low,ci_high,bootstrap_unit,bootstrap_rounds,bootstrap_valid_rounds
-repository_disjoint,"Observed closure rate, accepted minus routed",0.0718528981644887,0.0378354229245684,0.1111075677048133,repo,500,500
-repository_disjoint,"30-day unresolved probability, accepted minus routed",-0.0981413366281436,-0.1552085478821651,-0.0516730594859963,repo,500,500
-repository_disjoint,"30-day RMST unresolved, accepted minus routed",-4.258193641611047,-6.155555899401064,-2.8558937021684776,repo,500,500
-temporal,"Observed closure rate, accepted minus routed",0.206876785494241,0.0912250902228019,0.2520516973953988,repo,500,500
-temporal,"30-day unresolved probability, accepted minus routed",-0.1367842522708235,-0.1907122603423445,-0.0113530921513408,repo,500,500
-temporal,"30-day RMST unresolved, accepted minus routed",-5.306180638063163,-6.787789320176343,-1.9623817849126195,repo,500,500

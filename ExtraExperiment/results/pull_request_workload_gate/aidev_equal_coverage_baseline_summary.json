@@ -1,7 +1,0 @@
-{
-  "summary_csv": "ExtraExperiment/results/pull_request_workload_gate/aidev_equal_coverage_baseline_summary.csv",
-  "table_csv": "ExtraExperiment/results/pull_request_workload_gate/aidev_equal_coverage_baseline_table.csv",
-  "report": "ExtraExperiment/results/pull_request_workload_gate/aidev_equal_coverage_baseline_report.md",
-  "rows": 12,
-  "risk_budget": 0.1
-}

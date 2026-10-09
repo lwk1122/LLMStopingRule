@@ -1,9 +1,0 @@
-{
-  "summary_csv": "ExtraExperiment/results/pull_request_workload_gate/aidev_subgroup_fallback_summary.csv",
-  "flags_csv": "ExtraExperiment/results/pull_request_workload_gate/aidev_subgroup_fallback_flags.csv",
-  "table_csv": "ExtraExperiment/results/pull_request_workload_gate/aidev_subgroup_fallback_table.csv",
-  "report": "ExtraExperiment/results/pull_request_workload_gate/aidev_subgroup_fallback_report.md",
-  "risk_budget": 0.1,
-  "min_rows": 100,
-  "min_accepted": 30
-}
